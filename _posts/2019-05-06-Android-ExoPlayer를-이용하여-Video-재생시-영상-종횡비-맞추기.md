@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Android ExoPlayer를 이용하여 Video 재생시 영상 종횡비 맞추기"
 date: 2019-05-06
 comments: true
