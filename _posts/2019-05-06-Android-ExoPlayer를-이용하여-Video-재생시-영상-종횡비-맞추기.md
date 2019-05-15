@@ -3,7 +3,7 @@ title: "Android ExoPlayer를 이용하여 Video 재생시 영상 종횡비 맞�
 date: 2019-05-06
 comments: true
 ---
-
+  
 ### SimpleExoPlayerView를 활용한 Video의 종횡비 설정
 
 ExoPlayer를 이용하여 Video를 재생시 직접 SurfaceView를 재생할 경우, 
@@ -36,7 +36,7 @@ video view를 가공해야하는 경우에는 texture view로 변경해주어 �
 textureView를 사용함으로써 생기는 단점에 대해서는 exo player 공식 블로그를 참조하시길 바랍니다.
 
 [Exo Player Q&A](https://exoplayer.dev/faqs.html#should-i-use-surfaceview-or-textureview)
-    
+  
   
   
 ### SimpleExoPlayerView의 기타 기능
@@ -57,6 +57,4 @@ ExoPlayer 사용시 SimpleExoPlayerView와 함께 사용하기를 권장합니�
     app:default_artwork="@drawable/image_backaground">
 </com.google.android.exoplayer2.ui.SimpleExoPlayerView>
 ~~~
-
-
-
+  
