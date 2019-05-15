@@ -4,13 +4,13 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "LOGGING DEV"
+title: "TWO FASTLANE"
 description: > # this means to ignore newlines until "email:"
    Android, React-native, swift, AWS, Programming
 
 email: kms860226@gmail.com
 #blog logo
-logo: "/assets/images/background.jpg"
+logo: "/assets/images/logo1.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
