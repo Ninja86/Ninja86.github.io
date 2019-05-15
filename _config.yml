@@ -14,7 +14,7 @@ logo: "/assets/images/logo1.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/logo1.png"
+cover: "/assets/images/background.jpg"
 
 name: 'Ninja86'
 author: 'Ninja86'
