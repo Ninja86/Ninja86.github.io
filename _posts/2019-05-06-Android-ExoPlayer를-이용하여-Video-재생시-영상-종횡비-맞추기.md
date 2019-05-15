@@ -4,7 +4,7 @@ date: 2019-05-06
 comments: true
 ---
 
-# SimpleExoPlayerView를 활용한 Video의 종횡비 설정
+### SimpleExoPlayerView를 활용한 Video의 종횡비 설정
 
 ExoPlayer를 이용하여 Video를 재생시 직접 SurfaceView를 재생할 경우, 
 Container Layout의 크기에 따라 SurfaceView크기가 결정되기 때문에 
@@ -22,7 +22,7 @@ simpleExoPlayerView.setResizeMode(AspectRatioFrameLayout.RESIZE_MODE_FIT);
 ~~~
   
 #  
-# SimpleExoPlayerView에서 resizeMode 선택시 내부 동작 
+### SimpleExoPlayerView에서 resizeMode 선택시 내부 동작 
 
 종횡비에 대한 설정은 내부적으로 AspectRatioFrameLayout이라는 ExoPlayer의 View클래스에 의해 동작됩니다.
 Video Source로부터 bitmap을 얻어내어 해당 source의 종횡비를 얻어낸 후 
@@ -37,7 +37,7 @@ textureView를 사용함으로써 생기는 단점에 대해서는 exo player �
 [Exo Player Q&A](https://exoplayer.dev/faqs.html#should-i-use-surfaceview-or-textureview)
   
 #  
-# SimpleExoPlayerView의 기타 기능
+### SimpleExoPlayerView의 기타 기능
 
 뿐만아니라, SimpleExoPlayerView에는 video controller를 기본지원하며, 
 thumbnail, surfaceView 설정 (TextureView 혹은 SurfaceView) 등을 지원하기에
