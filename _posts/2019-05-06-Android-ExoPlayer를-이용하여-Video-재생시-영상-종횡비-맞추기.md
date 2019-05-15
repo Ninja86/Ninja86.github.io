@@ -21,7 +21,7 @@ simpleExoPlayerView.setPlayer(exoPlayer);
 simpleExoPlayerView.setResizeMode(AspectRatioFrameLayout.RESIZE_MODE_FIT);
 ~~~
   
-  
+#  
 # SimpleExoPlayerView에서 resizeMode 선택시 내부 동작 
 
 종횡비에 대한 설정은 내부적으로 AspectRatioFrameLayout이라는 ExoPlayer의 View클래스에 의해 동작됩니다.
@@ -36,7 +36,7 @@ textureView를 사용함으로써 생기는 단점에 대해서는 exo player �
 
 [Exo Player Q&A](https://exoplayer.dev/faqs.html#should-i-use-surfaceview-or-textureview)
   
-  
+#  
 # SimpleExoPlayerView의 기타 기능
 
 뿐만아니라, SimpleExoPlayerView에는 video controller를 기본지원하며, 
