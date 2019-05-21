@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<training_list>
+    <row
+        title="영어회화 공부법"
+        subTitle="영어회화 공부법의 핵심"
+        thumbUri="https://img.youtube.com/vi/T91p6pTPpSY/0.jpg"
+        category="언어"
+        channelId="T91p6pTPpSY"/>
+    <row
+        title="위 베어 베어스"
+        subTitle="귀여운 곰들의 일상 이야기"
+        thumbUri="https://img.youtube.com/vi/bBmDB9-DBtw/0.jpg"
+        category="만화"
+        channelId="bBmDB9-DBtw"/>
+    <row
+        title="코난 오브라이언"
+        subTitle="헤어날 수 없는 코난의 늪"
+        thumbUri="https://img.youtube.com/vi/kze1JkPl5_8/3.jpg"
+        category="토크쇼"
+        channelId="kze1JkPl5_8"/>
+    <row
+        title="여행 영어"
+        subTitle="여행 준비부터 여행 소감까지"
+        thumbUri="https://img.youtube.com/vi/bb08nFwfoxA/0.jpg"
+        category="여행"
+        channelId="bb08nFwfoxA"/>
+    <row
+        title="자기소개 잘하는 법"
+        subTitle="여러 사람들의 자기소개 및 질의응답"
+        thumbUri="https://img.youtube.com/vi/GovEUFcU7Gg/0.jpg"
+        category="생활"
+        channelId="zvMgWSJgwFY"/>
+</training_list>
