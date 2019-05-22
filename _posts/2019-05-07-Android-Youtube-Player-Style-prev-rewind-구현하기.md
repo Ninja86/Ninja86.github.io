@@ -51,5 +51,9 @@ ripple effect 발생할 때의 색을 지정할 수 있습니다.
 item에 **left, right, top, bottom** 에 값을 주면 item의 anchor point를 이동시킬 수가 있습니다.
 위와 같이 left, top, bottom에 마이너스 값을 주면 item의 크기가 부모 layout보다 커지게 되어 그려지게 됩니다.
 
+![pic1](/assets/article_images/2019-05-07-Android-Youtube-Player-Style-prev-rewind-구현하기/github-blog.png)
+
+https://raw.githubusercontent.com/Ninja86/Ninja86.github.io/master/assets/article_images/2019-05-07-Android-Youtube-Player-Style-prev-rewind-%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/github-blog.png
+
 이런식으로 반타원 형태의 ripple effect가 발생하는 drawable resource를 만들 수 있습니다.
 
