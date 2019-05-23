@@ -1,5 +1,5 @@
 ---
-title: "[Android] 안드로이드 스튜디오에서 project explorer에서 package 나누어 보여주기
+title: "[Android] 안드로이드 스튜디오에서 project explorer에서 package 나누어 보여주기"
 date: 2019-05-06
 comments: true
 ---
